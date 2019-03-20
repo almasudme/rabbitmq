@@ -1,4 +1,4 @@
-# This is output sample for kombu_queue_status.py
+## This is output sample for kombu_queue_status.py
 http://10.11.12.13:15672/api/queues/vhost
                   QUEUE WORKING WAITING CONSUMERS
                  queue1      21     332       4
